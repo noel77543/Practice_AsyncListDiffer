@@ -1,4 +1,4 @@
-package tw.noel.sung.com.practice_asynclistdiffer.base;
+package tw.noel.sung.com.practice_asynclistdiffer.async_list_differ.base;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.DiffUtil;

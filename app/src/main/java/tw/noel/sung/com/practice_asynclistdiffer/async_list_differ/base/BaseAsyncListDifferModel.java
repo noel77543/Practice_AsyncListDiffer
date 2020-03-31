@@ -1,4 +1,4 @@
-package tw.noel.sung.com.practice_asynclistdiffer.base;
+package tw.noel.sung.com.practice_asynclistdiffer.async_list_differ.base;
 
 public interface BaseAsyncListDifferModel {
     String getObjectName();

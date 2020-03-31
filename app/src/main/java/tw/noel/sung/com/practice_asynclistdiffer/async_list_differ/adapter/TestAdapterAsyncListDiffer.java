@@ -1,4 +1,4 @@
-package tw.noel.sung.com.practice_asynclistdiffer.adapter;
+package tw.noel.sung.com.practice_asynclistdiffer.async_list_differ.adapter;
 
 
 import android.view.LayoutInflater;
@@ -9,9 +9,9 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-import tw.noel.sung.com.practice_asynclistdiffer.base.BaseAsyncListDifferRecyclerViewAdapter;
+import tw.noel.sung.com.practice_asynclistdiffer.async_list_differ.base.BaseAsyncListDifferRecyclerViewAdapter;
 import tw.noel.sung.com.practice_asynclistdiffer.databinding.ListTestBinding;
-import tw.noel.sung.com.practice_asynclistdiffer.model.TestModel;
+import tw.noel.sung.com.practice_asynclistdiffer.async_list_differ.model.TestModel;
 
 
 public class TestAdapterAsyncListDiffer extends BaseAsyncListDifferRecyclerViewAdapter<TestModel.DatasBean> {

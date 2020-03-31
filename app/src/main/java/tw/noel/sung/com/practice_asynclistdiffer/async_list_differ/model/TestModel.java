@@ -1,10 +1,10 @@
-package tw.noel.sung.com.practice_asynclistdiffer.model;
+package tw.noel.sung.com.practice_asynclistdiffer.async_list_differ.model;
 
 import com.google.gson.annotations.SerializedName;
 
 import java.util.ArrayList;
 
-import tw.noel.sung.com.practice_asynclistdiffer.base.BaseAsyncListDifferModel;
+import tw.noel.sung.com.practice_asynclistdiffer.async_list_differ.base.BaseAsyncListDifferModel;
 
 public class TestModel {
 
